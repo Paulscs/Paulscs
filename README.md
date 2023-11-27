@@ -2,7 +2,7 @@
 I'm Paul, a software engineering student on his way to master web development.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Wordpress projects as a freelancer
+- 🔭 I’m currently working as a freelance Wordpress developer
 - 🌱 I’m currently learning and actively practicing:
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -10,6 +10,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </div>
+
 - ⚡ I've worked with: 
 <div display="flex">
   <!-- PHP Badge -->
