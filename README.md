@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Hola 안녕하세요 👋
 I'm Paul, a software engineering student on his way to master web development.
 
 Here are some ideas to get you started:
