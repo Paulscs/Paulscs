@@ -1,5 +1,5 @@
 ### Hi Hola 안녕하세요 👋
-I'm Paul, a software engineering student on his way to master web development.
+I'm Paul, a software engineering student on his path to becoming the computerman 🤖 beeb boop
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working as a freelance Wordpress developer
