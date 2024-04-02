@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <!-- JavaScript Badge -->
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-    <!-- Typescript Badge -->
+  <!-- Typescript Badge -->
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 
   <!-- Nodejs Badge -->
