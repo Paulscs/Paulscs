@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 As of early 2024, I've been learning and actively practicing:
 <div display="flex">
   <!-- Java Badge -->
-  <img src="https://img.shields.io/badge/Java-★★★-blue.svg?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <!-- Java Enterprise Badge -->
   <img src="https://img.shields.io/badge/Java_Enterprise-★★★-orange.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Enterprise"/>
 
