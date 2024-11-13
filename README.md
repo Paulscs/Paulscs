@@ -1,5 +1,6 @@
 ### <div align="center">I'm Paul, a full-stack freelance developer and final year software engineering student on his path to become The Computerman 🤖 </div>  
   
+<br/>  
 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG8ya3ltaWVubWdnbXV6YzZjYWVnMGExdmxlb3Vnb2FnbGN0cXBmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" align="center" height="300" width="300" />
@@ -88,12 +89,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Paulscs&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
