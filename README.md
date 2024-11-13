@@ -1,5 +1,11 @@
-### <div align="center">I'm Paul, a full-stack freelance developer and final year software engineering student on his path to becoming *the* Computerman 🤖 *beeb boop*</div>  
+### <div align="center">I'm Paul, a full-stack freelance developer and final year software engineering student on his path to become The Computerman 🤖 </div>  
   
+
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG8ya3ltaWVubWdnbXV6YzZjYWVnMGExdmxlb3Vnb2FnbGN0cXBmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" align="center" height="300" width="300" />
+</div>  
+  
+<br/>  
 
 - 🔭 I’m currently working for [NovaflexLED](https://novaflexled.com/)  
   
@@ -74,13 +80,10 @@
 <br/>  
 
 
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Paulscs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Paulscs&&style=flat-square" align="center" />
@@ -90,23 +93,7 @@
 <br/>  
 
 
+<br />
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-  
-  <!-- HTML Badge -->
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-
-  <!-- CSS Badge -->
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-
-  <!-- C# .NET Badge -->
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# .NET"/>
-
-  <!-- MySQL Badge -->
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-  <!-- MongoDB Badge -->
-  <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Paulscs)](https://git.io/streak-stats)
