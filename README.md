@@ -8,7 +8,7 @@
   
 <br/>  
 
-- 🔭 I’m currently working for [NovaflexLED](https://novaflexled.com/)  
+- 🔭 I’m currently working for Wepsys 
   
 
 - 🌱 I’m currently learning Flutter   
