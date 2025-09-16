@@ -11,7 +11,7 @@
 - 🔭 I’m currently looking for a position
   
 
-- 🌱 I’m currently learning Java Springboot   
+- 🌱 I’m currently learning Java Spring Boot   
   
 
 - ❓ Ask me about anything related to Wordpress plugin development  
