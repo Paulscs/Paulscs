@@ -8,10 +8,10 @@
   
 <br/>  
 
-- 🔭 I’m currently working for Wepsys 
+- 🔭 I’m currently looking for a position
   
 
-- 🌱 I’m currently learning Flutter   
+- 🌱 I’m currently learning Java Springboot   
   
 
 - ❓ Ask me about anything related to Wordpress plugin development  
